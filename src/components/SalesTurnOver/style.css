@@ -1,0 +1,10 @@
+.sales-turn-over {
+  background-color: #fff;
+  margin-top: 1.6rem;
+  min-height: 10.4rem;
+  max-width: 27.6rem;
+  box-shadow: 0px 2px 6px #0000000a;
+  border: 1px solid rgba(205, 205, 205, 0.7);
+  border-radius: 2px;
+  padding: 1.5rem;
+}

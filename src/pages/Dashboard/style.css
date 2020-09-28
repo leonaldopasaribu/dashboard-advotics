@@ -1,0 +1,120 @@
+.dashboard {
+    background: #f7f7f7 0% 0% no-repeat padding-box;
+    width: 100%;
+    padding: 0 2.4rem;
+    padding-top: 3rem;
+    height: 923px;
+  }
+  
+  .p1-d {
+    font-size: 4rem;
+    color: #707070c4;
+    font-weight: 600;
+    margin-bottom: 3.1rem;
+  }
+  
+  .dashboard-title {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .button-filter {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #00000029;
+    border-radius: 2px;
+    min-height: 4.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+    color: #6a6a6a;
+    padding: 1.3rem;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 3.1rem;
+  }
+  
+  .button-callender {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8b8b8b;
+    margin-right: 2.4rem;
+    border-radius: 2px;
+  }
+  
+  .dashboard-insight {
+    min-height: 4.8rem;
+    background: #37b04c 0% 0% no-repeat padding-box;
+    padding: 0 1.6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 2px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: lighter;
+  }
+  
+  .p2-d {
+    font-size: 2rem;
+    color: white;
+  }
+  
+  .content-right-insight {
+    display: flex;
+    align-items: center;
+  }
+  
+  .img-button {
+    cursor: pointer;
+  }
+  
+  .dashboard-content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .dashboard-content > div {
+    margin-top: 1.6rem;
+  }
+  
+  .container-2 {
+    width: 27.5rem;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 6px #0000000a;
+    border: 1px solid rgba(205, 205, 205, 0.7);
+    border-radius: 2px;
+    padding: 1.6rem;
+  }
+  
+  .container-1-center-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: "1.6rem";
+    flex-wrap: wrap;
+  }
+  
+  .container-1-header-title {
+    font-size: 2rem;
+    letter-spacing: 0;
+    color: #4d4f5c;
+    display: flex;
+    margin-bottom: 1.6rem;
+  }
+  
+  .container-2-header-title {
+    font-size: 2rem;
+    letter-spacing: 0;
+    color: #4d4f5c;
+    display: flex;
+  }
+  
+  .container-2-center-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: "1.6rem";
+    flex-wrap: wrap;
+  }

@@ -1,0 +1,39 @@
+.menu-bar-large {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(210, 210, 210, 0.9);
+  opacity: 1;
+  padding-top: 2.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 7.2rem;
+}
+
+.button-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  background: transparent;
+  border: 0;
+  cursor: none;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 2px;
+  width: 2.4rem;
+  height: 2.1rem;
+}
+
+.button-area {
+  margin-top: 1.4rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 0;
+}
+
+.button-area--selected {
+  background-color: #d2d2d2;
+}
